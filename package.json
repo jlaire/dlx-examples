@@ -2,7 +2,7 @@
 	"name": "dlx-examples",
 	"version": "0.1.0",
 	"author": "Johannes Laire <johannes@laire.fi>",
-	"description": "Usage examples for dlx",
+	"description": "Example solutions to exact cover problems with dlx",
 	"license": "MIT",
 	"homepage": "https://github.com/jlaire/dlx-examples",
 	"repository": {
