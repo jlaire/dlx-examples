@@ -23,5 +23,11 @@
 		"dlx": "0.2.1",
 		"cli": "*",
 		"underscore": "*"
+	},
+	"devDependencies": {
+		"jasmine-node": "*"
+	},
+	"scripts": {
+		"test": "jasmine-node spec"
 	}
 }
